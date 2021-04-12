@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.grey {
+  color: #999;
+}
+
+.small {
+  font-size: 0.85rem;
+}
+
+ol {
+  padding: 0;
+  list-style: none;
+  counter-reset: my-awesome-counter;
+  text-align: left;
+}
+
+.container {
+  max-width: 300px;
+  margin: auto;
+}
+
+.width-full {
+  width: 100%;
+}
+
+.py-1 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
